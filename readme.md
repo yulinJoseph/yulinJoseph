@@ -1,4 +1,4 @@
-![](./images/welcome.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code+PL&pause=1000&center=true&random=false&width=435&lines=Hello%2C+I+am+yulinJoseph)](https://git.io/typing-svg)
 
 ![yulinJoseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulinJoseph&count_private=true&show_icons=true&theme=onedark)
 
@@ -6,6 +6,8 @@
 
 ## ⚒️ my favorite tools
 
-### 🤖 programming and markup languages
+### 🤖 Programming languages
 
-![](./images/skills.png)
+### 🧰 Frameworks and libraries
+
+### 💻 Software and tools
